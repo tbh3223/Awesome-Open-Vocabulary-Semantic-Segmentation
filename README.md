@@ -52,6 +52,24 @@ The project is ongoing!
 4. <span id = "3001">**[CLIP-DIY]**</span> | **Arxiv'23** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 5. <span id = "1003">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450) 
 
+##
+
+## Open-Vocabulary Object Detection
+
+1. <span id = "3001">**[RO-ViT]**</span> | **CVPR'23(Highlight)** | Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers | [`[pdf]`](https://arxiv.org/abs/2305.07011) | [`[code]`](https://github.com/mcahny/rovit)
+2. <span id = "3001">**[CAT]**</span> | **CVPR'23** | CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection | [`[pdf]`](https://arxiv.org/abs/2301.01970) | [`[code]`](https://github.com/xiaomabufei/CAT)
+3. <span id = "3001">**[DetCLIPv2]**</span> | **CVPR'23** | DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment | [`[pdf]`](https://arxiv.org/abs/2304.04514) 
+4. <span id = "3001">**[CondHead]**</span> | **CVPR'23** | Learning to Detect and Segment for Open Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2212.12130)
+5. <span id = "3001">**[CORA]**</span> | **CVPR'23** | CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching | [`[pdf]`](https://arxiv.org/abs/2303.13076)  | [`[code]`](https://github.com/tgxs002/CORA)
+6. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Aligning Bag of Regions for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+7. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+8. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+9. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+10. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Improving Pseudo Labels for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+11. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Multi-Modal Classifiers for Open-Vocabulary Object Detection | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+12. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+13. <span id = "3001">**[MaskCLIP]**</span> | **ECCV'22(Oral)** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2112.01071)  | [`[code]`](https://github.com/chongzhou96/MaskCLIP)
+
 
 
 
