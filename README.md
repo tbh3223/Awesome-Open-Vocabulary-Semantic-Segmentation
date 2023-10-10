@@ -18,8 +18,8 @@ The project is ongoing!
 7. <span id = "1003">**[SAN]**</span> | **CVPR'23(Highlight)** | Side Adapter Network for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2302.12242) | [`[code]`](https://github.com/MendelXu/SAN)|
 8. <span id = "1003">**[SAN]**</span> | **TAPMI'23** | SAN: Side Adapter Network for Open-vocabulary Semantic Segmentation | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/10238837) | [`[code]`](https://github.com/MendelXu/SAN)|
 9. <span id = "1003">**[GKC]**</span> | **ICCV'23** | Global Knowledge Calibration for Fast Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/pdf/2303.09181) |
-10. <span id = "1003">**[GKC]**</span> | **CVPR'23** | Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models | [`[pdf]`](https://arxiv.org/pdf/2303.09181) |
-11. <span id = "1003">**[GKC]**</span> | **CVPR'23** | FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation | [`[pdf]`](https://arxiv.org/pdf/2303.09181) |
+10. <span id = "1003">**[ODISE]**</span> | **CVPR'23** | Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models | [`[pdf]`](https://arxiv.org/abs/2303.04803) | [`[code]`](https://github.com/NVlabs/ODISE)|
+11. <span id = "1003">**[GKC]**</span> | **CVPR'23** | FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2303.17225) | [`[code]`](https://github.com/bytedance/FreeSeg)|
 
 ##
 
