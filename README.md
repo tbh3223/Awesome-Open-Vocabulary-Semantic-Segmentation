@@ -80,7 +80,7 @@ The project is ongoing!
 
 Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.05493)
 
-A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future
+A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future | [`[pdf]`](https://arxiv.org/abs/2307.09220)
 
 ##
 
