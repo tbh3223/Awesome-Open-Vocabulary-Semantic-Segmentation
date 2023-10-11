@@ -80,6 +80,7 @@ Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segm
 ## Related survey
 
 Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.05493)
+
 A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future
 
 ##
@@ -87,6 +88,7 @@ A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Futur
 ## other related work
 
 Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation
+
 Shatter and Gather:Learning Referring Image Segmentation with Text Supervision
 
 ## Feedback
