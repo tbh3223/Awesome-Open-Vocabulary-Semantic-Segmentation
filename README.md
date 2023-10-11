@@ -40,7 +40,10 @@ The project is ongoing!
 7. <span id = "2005">**[OVSegmentor]**</span> | **CVPR'23** | Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision | [`[pdf]`](https://arxiv.org/abs/2301.09121) | [`[code]`](https://github.com/Jazzcharles/OVSegmentor)
 8. <span id = "2005">**[SimSeg]**</span> | **CVPR'23** | A Simple Framework for Text-Supervised Semantic Segmentation | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2023/html/Yi_A_Simple_Framework_for_Text-Supervised_Semantic_Segmentation_CVPR_2023_paper.html) | [`[code]`](https://github.com/muyangyi/SimSeg)
 9. <span id = "2005">**[CoCu]**</span> | **NeurIPS'23** | Bridging Semantic Gaps for Language-Supervised Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2309.13505) | [`[code]`](https://github.com/xing0047/CoCu)
-10. <span id = "1003">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450) |
+10. <span id = "1003">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450)
+11. Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs arXiv:2212.00785v2
+12. Scaling Open-Vocabulary Image Segmentation with Image-Level Labels
+
 
 ##
 
@@ -51,6 +54,8 @@ The project is ongoing!
 3. <span id = "3001">**[OVDiff]**</span> | **Arxiv'23** | Diffusion Models for Zero-Shot Open-Vocabulary Segmentation | [`[pdf]`](https://arxiv.org/abs/2112.07910) | [`[code]`](https://github.com/dingjiansw101/ZegFormer)
 4. <span id = "3001">**[CLIP-DIY]**</span> | **Arxiv'23** | CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free | [`[pdf]`](https://arxiv.org/abs/2309.14289)
 5. <span id = "1003">**[ZeroSeg]**</span> | **Arxiv'23** | Exploring Open-Vocabulary Semantic Segmentation without Human Labels | [`[pdf]`](https://arxiv.org/abs/2306.00450) 
+Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter
+Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation
 
 ##
 
@@ -70,8 +75,19 @@ The project is ongoing!
 12. <span id = "3001">**[EdaDet]**</span> | **ICCV'23** | EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment | [`[pdf]`](https://arxiv.org/abs/2309.01151)  | [`[code]`](https://chengshiest.github.io/edadet/)
 13. <span id = "3001">**[SGDN]**</span> | **Arxiv'23** | Open-Vocabulary Object Detection via Scene Graph Discovery | [`[pdf]`](https://arxiv.org/abs/2307.03339)
 
+##
 
+## Related survey
 
+Towards Open Vocabulary Learning: A Survey | [`[pdf]`](https://arxiv.org/abs/2306.05493)
+A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future
+
+##
+
+## other related work
+
+Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation
+Shatter and Gather:Learning Referring Image Segmentation with Text Supervision
 
 ## Feedback
 
