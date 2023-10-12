@@ -92,6 +92,8 @@ Shatter and Gather:Learning Referring Image Segmentation with Text Supervision
 
 Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation
 
+entity segmentation
+
 
 ## Feedback
 
